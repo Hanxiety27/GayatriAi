@@ -1,0 +1,63 @@
+.welcome-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: opacity 1s ease; /* Durasi dan kecepatan transisi */
+  }
+  
+  .fade-out {
+    opacity: 0; /* Mengatur elemen menjadi transparan */
+  }
+  
+.content {
+    text-align: center;
+    background: transparent;
+    color: white;
+    max-width: 600px;
+    padding: 0 20px;
+    position: relative; /* Atur menjadi relative */
+}
+
+.go-button {
+    background: white;
+    color: #000000;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 10px;
+    transition: background 0.3s;
+    margin-top: 20px;
+}
+
+.go-button:hover {
+    background: #e2e8f0;
+}
+
+footer {
+    position: absolute; /* Posisikan footer secara absolut */
+    bottom: 10px; /* Atur jarak dari bawah halaman */
+    left: 0;
+    top: 98%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 0.875rem;
+    opacity: 0.75;
+    padding: 10px 0;
+    background-color: transparent;
+}
+
+.welcome{
+    font-size: 2.8rem;
+}
+
+/* Styling for logo */
+.logo-image {
+    width: 150px; /* Atur ukuran sesuai keinginan Anda */
+    margin: 20px auto; /* Jarak antara teks dan logo */
+    display: block; /* Memastikan gambar berada di tengah */
+  }
+  
