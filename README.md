@@ -1,4 +1,4 @@
-# 🌸 Gayatri AI
+# 🐴 Gayatri AI
 
 **Gayatri AI** is an intelligent web-based assistant built with **React.js**, **Vite.js**, and **Tailwind CSS**.  
 It provides users with an interactive interface to chat, generate responses from an AI API, and copy the content easily.
@@ -28,10 +28,26 @@ It provides users with an interactive interface to chat, generate responses from
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository**
+- **Clone the repository**
 
    ```bash
    git clone https://github.com/yourusername/gayatri-ai.git
    cd gayatri-ai
    npm install
    npm run dev
+---
+
+## 🧩 Project Structure
+
+- src/
+ ┣ components/
+ ┃ ┣ WelcomePage.jsx
+ ┃ ┣ BiodataPage.jsx
+ ┃ ┗ ...
+ ┣ assets/
+ ┃ ┗ images/
+ ┣ App.jsx
+ ┣ main.jsx
+ ┗ index.css
+ 
+ ---
