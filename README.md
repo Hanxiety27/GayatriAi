@@ -36,18 +36,3 @@ It provides users with an interactive interface to chat, generate responses from
    npm install
    npm run dev
 ---
-
-## 🧩 Project Structure
-
-- src/
- ┣ components/
- ┃ ┣ WelcomePage.jsx
- ┃ ┣ BiodataPage.jsx
- ┃ ┗ ...
- ┣ assets/
- ┃ ┗ images/
- ┣ App.jsx
- ┣ main.jsx
- ┗ index.css
- 
- ---
