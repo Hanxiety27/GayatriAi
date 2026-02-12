@@ -33,7 +33,7 @@ It provides users with an interactive interface to chat, generate responses from
    ```bash
    git clone https://github.com/Hanxiety27/GayatriAi.git
    cd GayatriAi
-   cd Frontend
+   cd frontend
    npm install
    npm run dev
 ---
