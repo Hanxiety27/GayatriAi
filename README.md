@@ -31,8 +31,9 @@ It provides users with an interactive interface to chat, generate responses from
 - **Clone the repository**
 
    ```bash
-   git clone https:///github.com/Hanxiety27/GayatriAi
-   cd gayatri-ai
+   git clone https://github.com/Hanxiety27/GayatriAi.git
+   cd GayatriAi
+   cd Frontend
    npm install
    npm run dev
 ---
